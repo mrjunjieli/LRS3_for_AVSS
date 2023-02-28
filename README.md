@@ -49,6 +49,6 @@ python extrac_face_and_lip.py
 python convert_npy.py 
 ```
 
-    Thanks for [KaiLi](https://github.com/JusperLee),
-    This script is based on his [repo](https://github.com/JusperLee/LRS3-For-Speech-Separation)
+Thanks for [KaiLi](https://github.com/JusperLee),
+This script is based on his [repo](https://github.com/JusperLee/LRS3-For-Speech-Separation)
 
